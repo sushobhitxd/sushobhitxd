@@ -1,0 +1,31 @@
+<svg width="800" height="250" viewBox="0 0 800 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .bg { fill: #0a0a0a; }
+        .text { font-family: 'Courier New', monospace; font-size: 16px; fill: #00ff00; }
+        .header { font-family: 'Courier New', monospace; font-size: 14px; fill: #aaaaaa; }
+        .prompt { fill: #00ff00; font-weight: bold; }
+        .role { font-family: 'Courier New', monospace; font-size: 28px; fill: #00ff00; font-weight: bold; letter-spacing: 2px; }
+        .sub { font-family: 'Courier New', monospace; font-size: 16px; fill: #569cd6; }
+    </style>
+    
+    <!-- Terminal Background -->
+    <rect width="800" height="250" rx="10" class="bg" />
+    
+    <!-- Top Bar -->
+    <rect width="800" height="30" class="bg" />
+    <circle cx="20" cy="15" r="6" fill="#ff5f56" />
+    <circle cx="40" cy="15" r="6" fill="#ffbd2e" />
+    <circle cx="60" cy="15" r="6" fill="#27c93f" />
+    <text x="350" y="20" class="header">sushobhit:~</text>
+
+    <!-- Terminal Content -->
+    <text x="20" y="70" class="text">
+        <tspan class="prompt">sushobhit:~$</tspan> ./get_role.sh
+    </text>
+    <text x="20" y="120" class="role">> SECURITY RESEARCHER &amp; DEVELOPER</text>
+    <text x="20" y="150" class="sub">[ Penetration Testing | Full Stack Development | DevSecOps ]</text>
+    
+    <text x="20" y="210" class="text">
+        <tspan class="prompt">sushobhit:~$</tspan> █
+    </text>
+</svg>
