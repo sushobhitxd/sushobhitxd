@@ -8,7 +8,7 @@
 ### About
 * Passionate about offensive security, penetration testing, and CTFs.
 * Interested in network security, system architecture, and secure backend development.
-* Exploring Devsecops, reverse engineering, and low level development.
+* Exploring Devsecops, agentic systems in security space.
 * Open to collaboration and open-source contributions.
 * Always learning, always building and breaking things to make them safer.
 
