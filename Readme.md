@@ -15,7 +15,7 @@
 ---
 
 ### Tech
-`TypeScript` • `JavaScript` • `Python` • `Node.js` • `Express.js` • `PostgreSQL` • `MongoDB` • `Docker`  • `Burp Suite` • `Kali Linux` • `Reverse Engineering`
+`TypeScript` • `JavaScript` • `Python` • `Node.js` • `Express.js` • `PostgreSQL` • `MongoDB` • `Docker`  • `Burp Suite` • `Kali Linux` 
 
 ---
 
