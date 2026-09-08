@@ -21,6 +21,6 @@
 
 ---
 
-### Connect
+### Connect with me 
 * **LinkedIn:** [your-handle](https://www.linkedin.com/in/sushobhit-goyal-xdxd/)
 * **X:** [your-handle](https://x.com/sushobhitxd)
